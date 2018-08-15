@@ -18,4 +18,6 @@ If you have any suggestions (missing reports), please feel free to edit and pull
 - **NCHRP Report 855: An Expanded Functional Classification System for Highways and Streets** (2018), N. Stamatiadis et al. [[pdf]](https://github.com/subasish/Awesome-NCHRP-Reports-/blob/master/Reports/NCHRP%20855.pdf)
 - **NCHRP Web-only 240: Analysis of Work Zone Crash Characteristics and Countermeasures** (2018), G. Ullman et al. [[pdf]](https://github.com/subasish/Awesome-NCHRP-Reports-/blob/master/Reports/NCHRP%20wo240.pdf)
 - **NCHRP Report 845: Advancing Automated and Connected Vehicles: Policy and Planning Strategies for State and Local Transportation Agencies** (2017), J. Zmud et al. [[pdf]](https://github.com/subasish/Awesome-NCHRP-Reports-/blob/master/Reports/NCHRP%20845.pdf)
-
+- **NCHRP Report 844: Guide for Integrating Goods and Services Movement by Commercial Vehicles in Smart Growth Environments** (2017), C. lamm et al. [[pdf]](https://github.com/subasish/Awesome-NCHRP-Reports-/blob/master/Reports/NCHRP%20844.pdf)
+- **NCHRP Report 841: Development of Crash Modification Factors for Uncontrolled Pedestrian Crossing Treatments** (2017), J. Zmud et al. [[pdf]](https://github.com/subasish/Awesome-NCHRP-Reports-/blob/master/Reports/NCHRP%20841.pdf)
+- **NCHRP Report 839: A Performance-Based Highway Geometric Design Process** (2017), T. Neuman et al. [[pdf]](https://github.com/subasish/Awesome-NCHRP-Reports-/blob/master/Reports/NCHRP%20839.pdf)
